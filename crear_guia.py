@@ -46,4 +46,4 @@ def crear_guia(input_doc_name, output_doc_name, sep, questions):
 	document.save(output_doc_name)
 
 
-crear_guia('invierno.docx', 'output1.docx', '*', [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 15, 18, 20])
+#crear_guia('invierno.docx', 'output1.docx', '*', [1, 2, 3, 4, 5, 6, 9, 10, 15, 18, 20])
